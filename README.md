@@ -1,7 +1,7 @@
 # Crunchyroll CLI
 
-# by error434
-# copyrighted © 2020
+> * by error434
+> * copyrighted © 2020
 
 
 Downloaded episodes and subtitles
