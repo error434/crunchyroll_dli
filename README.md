@@ -1,6 +1,6 @@
 # Crunchyroll CLI
 
->  *by error434
+> * by error434
 > * copyrighted © 2020
 
 
